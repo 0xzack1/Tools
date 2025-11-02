@@ -1,7 +1,0 @@
-www
-code
-chrome
-bgtrb
-rfv
-analytics
-docs
